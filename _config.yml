@@ -20,13 +20,13 @@ timezone: Asia/Kolkata
 
 title: Shiven's Blog # the main title
 
-tagline: # it will display as the sub-title
+tagline: The Rumblings and Bumblings of a Student-Developer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   The technical rumbling and bumblings of yours truly.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://shivenbajpai.github.io"
 
 github:
   username: shivenBajpai # change to your github username
