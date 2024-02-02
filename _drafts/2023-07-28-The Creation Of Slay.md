@@ -8,8 +8,3 @@ pin: true
 img_path: /assets/img/The Creation of Slay/
 image: Banner.png
 ---
-
-# One Hell of a Heading
-
-Lorem ipsum
-
