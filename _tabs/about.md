@@ -7,7 +7,7 @@ order: 4
 # Ahoy!
 <hr>
 
-<h3>I'm Shiven Bajpai, a passionate high school student-developer from India.</h3>
+<h3>I'm Shiven Bajpai, a passionate high school student-developer from India</h3>
 
 I am currently trying out all sorts of different things to find fields that interest me,
 So far I've worked on
