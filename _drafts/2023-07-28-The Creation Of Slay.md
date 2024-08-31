@@ -5,6 +5,6 @@ categories: [Slay, DevLog]
 tags: [grids, slay, ai-opponent]     # TAG names should always be lowercase
 author: Shiven Bajpai
 pin: true
-img_path: /assets/img/The Creation of Slay/
+media_subpath: /assets/img/The Creation of Slay/
 image: Banner.png
 ---
